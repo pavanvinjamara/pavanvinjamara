@@ -1,4 +1,4 @@
-
+<h1 align="center">👩🏻‍💻 Hi, I’m Vinjamara Pavan Kumar</h1> 
 
 **`FrontDeveloper`**
 
@@ -23,9 +23,4 @@
  
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
    
-   
- ##  
- 
- <div>
-    ![Snake animation](https://github.com/pavanvinjamara/pavanvinjamara/blob/output/github-contribution-grid-snake.svg)
-</div>
+  
