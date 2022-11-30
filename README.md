@@ -1,5 +1,4 @@
-<h1 align="center">👩🏻‍💻 Hi, I’m Vinjamara Pavan Kumar</h1> 
-<p align="center"><a href="https://.github.io"pavanvinjamara><img width="80%" alt="Hello, I'm vinjamara pavan" src="" /></a></p>
+<p align="center"><a href="https://.github.io"pavanvinjamara><img width="80%" alt="Hello, I'm vinjamara pavan" src="nameIntro.png" /></a></p>
 
 **`FrontDeveloper`**
 
