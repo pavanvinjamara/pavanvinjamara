@@ -2,7 +2,7 @@
 
 ---
 
-**`FrontDeveloper`**
+**`FrontEnd Web Developer`**
 
 
 - - 💼 Open to worK
