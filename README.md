@@ -47,10 +47,7 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=pavanvinjamara)  
 </div>
     
-<div align="center">
-        
-![Profile views](https://gpvc.arturio.dev/pavanvinjamara)  
- </div>
+
 
 
    
