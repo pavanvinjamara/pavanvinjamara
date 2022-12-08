@@ -4,6 +4,9 @@
 
 **`FrontEnd Web Developer`** 
 
+<br />
+<span align="left"> <img src="https://komarev.com/ghpvc/?username=pavanvinjamara&label=Profile%20views&color=0e75b6&style=flat" alt="pavanvinjamara" /></span>
+
 
 - - 💼 Open to worK
 - - 🌱 I’m currently learning javascript and react
@@ -29,7 +32,7 @@
 
 #  
 
-<span align="left"> <img src="https://komarev.com/ghpvc/?username=pavanvinjamara&label=Profile%20views&color=0e75b6&style=flat" alt="pavanvinjamara" /></span>
+
 
 <h2 align="center">Trophies</h2>
 <div align="center">
