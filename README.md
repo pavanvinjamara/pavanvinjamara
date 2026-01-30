@@ -3,7 +3,7 @@
 ---
 
 
-An experienced  **`Full stack Developer`** with 3+ years of hands-on experience building scalable web applications using Java, Spring Boot, React, and Node.js. Strong understanding of frontend architecture, backend design, and Data Structures & Algorithms, with a proven ability to optimize performance and deliver maintainable, production-ready systems.
+An experienced  **`Full stack Developer`** with 3+ years of hands-on experience building scalable web applications using Java, Spring Boot, React, MySQL, MongoDB, Node.js, AWS and Docker. Strong understanding of frontend architecture, backend design, and Data Structures & Algorithms, with a proven ability to optimize performance and deliver maintainable, production-ready systems.
 
 <br />
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=pavanvinjamara&label=Profile%20views&color=0e75b6&style=flat" alt="pavanvinjamara" /></span>
