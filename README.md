@@ -2,7 +2,8 @@
 
 ---
 
-A mechanical engineer turned **`full stack developer`** with a passion for designing and building beautiful, user-friendly websites and applications. Proficient in HTML, CSS, JavaScript, Typescript, React, Java, NodeJs, ExpressJs, SpringBoot, MongoDB, Bootstrap and DataStructures and Algorithms. Through self-learning, personal projects and joining Fullstack Web Development Bootcamps, I have developed a strong understanding of front-end development principles and practices. I am excited to transition my skills to this dynamic field and contribute to meaningful projects.
+
+An experienced  **`Full stack Developer`** with 3+ years of hands-on experience building scalable web applications using Java, Spring Boot, React, and Node.js. Strong understanding of frontend architecture, backend design, and Data Structures & Algorithms, with a proven ability to optimize performance and deliver maintainable, production-ready systems.
 
 <br />
 <span align="left"> <img src="https://komarev.com/ghpvc/?username=pavanvinjamara&label=Profile%20views&color=0e75b6&style=flat" alt="pavanvinjamara" /></span>
