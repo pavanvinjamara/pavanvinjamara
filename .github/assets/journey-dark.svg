@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<style>@media (prefers-reduced-motion: reduce){.m{display:none}}</style>
+<rect x="1" y="1" width="1198" height="288" rx="22" fill="#0E1621" stroke="#26354A" stroke-width="1.5"/>
+<line x1="175" y1="110" x2="1025" y2="110" stroke="#1B2738" stroke-width="4" stroke-linecap="round"/>
+<line x1="175" y1="110" x2="1025" y2="110" stroke="#F5A524" stroke-width="4" stroke-linecap="round" stroke-dasharray="850" stroke-dashoffset="850">
+<animate attributeName="stroke-dashoffset" from="850" to="0" dur="2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1" values="850;0"/></line>
+<text x="175" y="80" text-anchor="middle" font-size="16" font-weight="700" fill="#F5A524">2017 – 2021</text>
+<circle cx="175" cy="110" r="10" fill="#0E1621" stroke="#F5A524" stroke-width="4"/>
+<text x="175" y="160" text-anchor="middle" font-size="18" font-weight="700" fill="#E6EDF3">B.Tech, Computer Science</text>
+<text x="175" y="186" text-anchor="middle" font-size="15" fill="#E6EDF3" opacity="0.85">TKR College, Hyderabad</text>
+<text x="175" y="210" text-anchor="middle" font-size="14" fill="#8B98A9">CGPA 7.67</text>
+<text x="458" y="80" text-anchor="middle" font-size="16" font-weight="700" fill="#F5A524">2022 – 2023</text>
+<circle cx="458" cy="110" r="10" fill="#0E1621" stroke="#F5A524" stroke-width="4"/>
+<text x="458" y="160" text-anchor="middle" font-size="18" font-weight="700" fill="#E6EDF3">Full stack trainee</text>
+<text x="458" y="186" text-anchor="middle" font-size="15" fill="#E6EDF3" opacity="0.85">Newton School</text>
+<text x="458" y="210" text-anchor="middle" font-size="14" fill="#8B98A9">3+ apps, 50+ mock interviews</text>
+<text x="742" y="80" text-anchor="middle" font-size="16" font-weight="700" fill="#F5A524">2022 – 2024</text>
+<circle cx="742" cy="110" r="10" fill="#0E1621" stroke="#F5A524" stroke-width="4"/>
+<text x="742" y="160" text-anchor="middle" font-size="18" font-weight="700" fill="#E6EDF3">M.Sc, Computer Science</text>
+<text x="742" y="186" text-anchor="middle" font-size="15" fill="#E6EDF3" opacity="0.85">Mia Digital University</text>
+<text x="742" y="210" text-anchor="middle" font-size="14" fill="#8B98A9">Score 85%</text>
+<text x="1025" y="80" text-anchor="middle" font-size="16" font-weight="700" fill="#F5A524">2023 – now</text>
+<circle cx="1025" cy="110" r="10" fill="#0E1621" stroke="#F5A524" stroke-width="4"/>
+<circle cx="1025" cy="110" r="5" fill="#F5A524"/><circle class="m" cx="1025" cy="110" r="10" fill="none" stroke="#F5A524" stroke-width="2"><animate attributeName="r" values="10;22" dur="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="2s" repeatCount="indefinite"/></circle>
+<text x="1025" y="160" text-anchor="middle" font-size="18" font-weight="700" fill="#E6EDF3">Full stack developer</text>
+<text x="1025" y="186" text-anchor="middle" font-size="15" fill="#E6EDF3" opacity="0.85">Zygal, Pune</text>
+<text x="1025" y="210" text-anchor="middle" font-size="14" fill="#8B98A9">5 products, 10,000+ users</text>
+<text x="600" y="262" text-anchor="middle" font-size="13" fill="#8B98A9">The M.Sc ran part-time alongside training and work, so the dates overlap.</text>
+</svg>

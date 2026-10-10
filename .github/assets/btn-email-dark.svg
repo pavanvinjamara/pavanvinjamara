@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="64" viewBox="0 0 270 64" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<style>@media (prefers-reduced-motion: reduce){.m{display:none}}</style>
+<defs><clipPath id="pill"><rect x="1" y="1" width="268" height="62" rx="31.0"/></clipPath></defs>
+<rect x="1" y="1" width="268" height="62" rx="31.0" fill="#152131" stroke="#26354A" stroke-width="1.5"/>
+
+<g transform="translate(80 32.0)"><g fill="none" stroke="#E6EDF3" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="-2" y="-9" width="24" height="18" rx="3"/><path d="M-1 -7 L10 2 L21 -7"/></g></g>
+<text x="112" y="38.5" font-size="18" font-weight="700" fill="#E6EDF3">Email me</text>
+</svg>

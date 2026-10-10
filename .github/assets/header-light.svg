@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<style>@media (prefers-reduced-motion: reduce){.m{display:none}}</style>
+<rect x="1" y="1" width="1198" height="398" rx="22" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.5"/>
+<defs><pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+<circle cx="2" cy="2" r="1.2" fill="#D5DBE2"/></pattern>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="g"/>
+<feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="c"><rect x="1" y="1" width="1198" height="398" rx="22"/></clipPath></defs>
+<rect x="620" y="1" width="579" height="398" fill="url(#dots)" clip-path="url(#c)"/>
+<text x="64" y="132" font-size="60" font-weight="800" fill="#1F2328" letter-spacing="-1.5">Pavan Kumar</text>
+<text x="64" y="200" font-size="60" font-weight="800" fill="#1F2328" letter-spacing="-1.5">Vinjamara</text>
+<rect x="66" y="226" width="56" height="5" rx="2.5" fill="#B45309"/>
+<text x="64" y="272" font-size="22" fill="#57606A">Full stack Java developer. I build event-driven</text>
+<text x="64" y="302" font-size="22" fill="#57606A">systems that stay fast under real load.</text>
+<rect x="64" y="332" width="162" height="34" rx="17" fill="#FFFFFF" stroke="#D0D7DE"/>
+<circle cx="84" cy="349" r="5" fill="#1A7F37"/>
+<circle class="m" cx="84" cy="349" r="5" fill="none" stroke="#1A7F37" stroke-width="2">
+<animate attributeName="r" values="5;12" dur="1.8s" repeatCount="indefinite"/>
+<animate attributeName="opacity" values="0.9;0" dur="1.8s" repeatCount="indefinite"/></circle>
+<text x="98" y="354" font-size="15" font-weight="600" fill="#1F2328">Open to work</text>
+<rect x="236.0" y="332" width="178" height="34" rx="17" fill="#FFFFFF" stroke="#D0D7DE"/>
+<text x="252.0" y="354" font-size="15" font-weight="600" fill="#1F2328">Hyderabad, India</text>
+<rect x="424.0" y="332" width="106" height="34" rx="17" fill="#FFFFFF" stroke="#D0D7DE"/>
+<text x="440.0" y="354" font-size="15" font-weight="600" fill="#1F2328">3+ years</text>
+<path d="M 735 125 L 915 125 L 1095 125 L 1095 275 L 915 275" fill="none" stroke="#D0D7DE" stroke-width="2" stroke-dasharray="6 6"/>
+<path id="flow" d="M 735 125 L 915 125 L 1095 125 L 1095 275 L 915 275" fill="none" stroke="none"/>
+<circle class="m" r="5" fill="#B45309" filter="url(#glow)">
+<animateMotion dur="6s" begin="-0s" repeatCount="indefinite" rotate="auto"><mpath href="#flow"/></animateMotion></circle>
+<circle class="m" r="5" fill="#0F766E" filter="url(#glow)">
+<animateMotion dur="6s" begin="-2s" repeatCount="indefinite" rotate="auto"><mpath href="#flow"/></animateMotion></circle>
+<circle class="m" r="5" fill="#B45309" filter="url(#glow)">
+<animateMotion dur="6s" begin="-4s" repeatCount="indefinite" rotate="auto"><mpath href="#flow"/></animateMotion></circle>
+<rect x="663" y="93" width="144" height="64" rx="14" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.5">
+</rect>
+<text x="735" y="123" text-anchor="middle" font-size="16" font-weight="700" fill="#1F2328">Devices</text>
+<text x="735" y="143" text-anchor="middle" font-size="12" fill="#57606A">camera events</text>
+<rect x="843" y="93" width="144" height="64" rx="14" fill="#FFFFFF" stroke="#B45309" stroke-width="2">
+<animate attributeName="stroke-opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite"/></rect>
+<text x="915" y="123" text-anchor="middle" font-size="16" font-weight="700" fill="#1F2328">Kafka</text>
+<text x="915" y="143" text-anchor="middle" font-size="12" fill="#57606A">event stream</text>
+<rect x="1023" y="93" width="144" height="64" rx="14" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.5">
+</rect>
+<text x="1095" y="123" text-anchor="middle" font-size="16" font-weight="700" fill="#1F2328">Spring Boot</text>
+<text x="1095" y="143" text-anchor="middle" font-size="12" fill="#57606A">microservices</text>
+<rect x="1023" y="243" width="144" height="64" rx="14" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.5">
+</rect>
+<text x="1095" y="273" text-anchor="middle" font-size="16" font-weight="700" fill="#1F2328">PostgreSQL</text>
+<text x="1095" y="293" text-anchor="middle" font-size="12" fill="#57606A">+ Redis cache</text>
+<rect x="843" y="243" width="144" height="64" rx="14" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.5">
+</rect>
+<text x="915" y="273" text-anchor="middle" font-size="16" font-weight="700" fill="#1F2328">React UI</text>
+<text x="915" y="293" text-anchor="middle" font-size="12" fill="#57606A">live dashboards</text>
+<text x="1005" y="360" text-anchor="middle" font-size="13" fill="#57606A">The kind of pipeline I build and run in production</text>
+</svg>

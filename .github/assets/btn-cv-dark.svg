@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="64" viewBox="0 0 270 64" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<style>@media (prefers-reduced-motion: reduce){.m{display:none}}</style>
+<defs><clipPath id="pill"><rect x="1" y="1" width="268" height="62" rx="31.0"/></clipPath></defs>
+<rect x="1" y="1" width="268" height="62" rx="31.0" fill="#F5A524" stroke="#F5A524" stroke-width="1.5"/>
+<g clip-path="url(#pill)" class="m"><rect x="-80" y="0" width="50" height="64" fill="#FFFFFF" opacity="0.28" transform="skewX(-20)">
+<animate attributeName="x" values="-80;-80;330" keyTimes="0;0.7;1" dur="4s" repeatCount="indefinite"/></rect></g>
+<g transform="translate(66 32.0)"><g fill="none" stroke="#1A1206" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M0 -12 h11 l7 7 v19 a2 2 0 0 1 -2 2 h-16 a2 2 0 0 1 -2 -2 v-24 a2 2 0 0 1 2 -2z"/><path d="M8 -1 v10 M3.5 5 L8 9.5 L12.5 5"/></g></g>
+<text x="98" y="38.5" font-size="18" font-weight="700" fill="#1A1206">Download CV</text>
+</svg>

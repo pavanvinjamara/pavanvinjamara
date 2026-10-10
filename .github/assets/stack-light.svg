@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="584" viewBox="0 0 1200 584" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif">
+<style>@media (prefers-reduced-motion: reduce){.m{display:none}}</style>
+<rect x="1" y="1" width="1198" height="582" rx="22" fill="#F6F8FA" stroke="#D0D7DE" stroke-width="1.5"/>
+<text x="48" y="59" font-size="16" font-weight="700" fill="#1F2328">Backend</text>
+<rect x="280" y="36" width="72" height="36" rx="18.0" fill="#FFFFFF" stroke="#B45309" stroke-width="1.8"/><text x="316" y="59" text-anchor="middle" font-size="15" font-weight="600" fill="#1F2328">Java</text>
+<rect x="362" y="36" width="135" height="36" rx="18.0" fill="#FFFFFF" stroke="#B45309" stroke-width="1.8"/><text x="430" y="59" text-anchor="middle" font-size="15" font-weight="600" fill="#1F2328">Spring Boot</text>
+<rect x="507" y="36" width="160" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="587" y="59" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">Spring Security</text>
+<rect x="677" y="36" width="160" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="757" y="59" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">Hibernate / JPA</text>
+<rect x="846" y="36" width="153" height="36" rx="18.0" fill="#FFFFFF" stroke="#B45309" stroke-width="1.8"/><text x="923" y="59" text-anchor="middle" font-size="15" font-weight="600" fill="#1F2328">Microservices</text>
+<rect x="1010" y="36" width="110" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="1065" y="59" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">REST APIs</text>
+<rect x="280" y="82" width="94" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="327" y="105" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">Node.js</text>
+<rect x="384" y="82" width="94" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="431" y="105" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">Express</text>
+<line x1="48" y1="130" x2="1152" y2="130" stroke="#D0D7DE" stroke-opacity="0.6"/>
+<text x="48" y="165" font-size="16" font-weight="700" fill="#1F2328">Frontend</text>
+<rect x="280" y="142" width="81" height="36" rx="18.0" fill="#FFFFFF" stroke="#B45309" stroke-width="1.8"/><text x="320" y="165" text-anchor="middle" font-size="15" font-weight="600" fill="#1F2328">React</text>
+<rect x="371" y="142" width="77" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="410" y="165" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">Redux</text>
+<rect x="458" y="142" width="77" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="497" y="165" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">Vue 3</text>
+<rect x="546" y="142" width="77" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="584" y="165" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">Pinia</text>
+<rect x="633" y="142" width="94" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="680" y="165" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">Next.js</text>
+<rect x="736" y="142" width="126" height="36" rx="18.0" fill="#FFFFFF" stroke="#B45309" stroke-width="1.8"/><text x="800" y="165" text-anchor="middle" font-size="15" font-weight="600" fill="#1F2328">TypeScript</text>
+<rect x="872" y="142" width="118" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="932" y="165" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">JavaScript</text>
+<rect x="1001" y="142" width="135" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="1068" y="165" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">Tailwind CSS</text>
+<rect x="280" y="188" width="102" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="331" y="211" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">Chart.js</text>
+<line x1="48" y1="236" x2="1152" y2="236" stroke="#D0D7DE" stroke-opacity="0.6"/>
+<text x="48" y="271" font-size="16" font-weight="700" fill="#1F2328">Data and messaging</text>
+<rect x="280" y="248" width="126" height="36" rx="18.0" fill="#FFFFFF" stroke="#B45309" stroke-width="1.8"/><text x="343" y="271" text-anchor="middle" font-size="15" font-weight="600" fill="#1F2328">PostgreSQL</text>
+<rect x="416" y="248" width="94" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="463" y="271" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">MongoDB</text>
+<rect x="520" y="248" width="81" height="36" rx="18.0" fill="#FFFFFF" stroke="#B45309" stroke-width="1.8"/><text x="560" y="271" text-anchor="middle" font-size="15" font-weight="600" fill="#1F2328">Redis</text>
+<rect x="611" y="248" width="81" height="36" rx="18.0" fill="#FFFFFF" stroke="#B45309" stroke-width="1.8"/><text x="651" y="271" text-anchor="middle" font-size="15" font-weight="600" fill="#1F2328">Kafka</text>
+<rect x="702" y="248" width="110" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="757" y="271" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">Socket.io</text>
+<line x1="48" y1="296" x2="1152" y2="296" stroke="#D0D7DE" stroke-opacity="0.6"/>
+<text x="48" y="331" font-size="16" font-weight="700" fill="#1F2328">Cloud and DevOps</text>
+<rect x="280" y="308" width="209" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="385" y="331" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">AWS EC2 / S3 / Lambda</text>
+<rect x="499" y="308" width="90" height="36" rx="18.0" fill="#FFFFFF" stroke="#B45309" stroke-width="1.8"/><text x="544" y="331" text-anchor="middle" font-size="15" font-weight="600" fill="#1F2328">Docker</text>
+<rect x="599" y="308" width="118" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="658" y="331" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">Kubernetes</text>
+<rect x="728" y="308" width="94" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="775" y="331" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">Jenkins</text>
+<rect x="832" y="308" width="77" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="870" y="331" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">CI/CD</text>
+<line x1="48" y1="356" x2="1152" y2="356" stroke="#D0D7DE" stroke-opacity="0.6"/>
+<text x="48" y="391" font-size="16" font-weight="700" fill="#1F2328">Security</text>
+<rect x="280" y="368" width="63" height="36" rx="18.0" fill="#FFFFFF" stroke="#B45309" stroke-width="1.8"/><text x="312" y="391" text-anchor="middle" font-size="15" font-weight="600" fill="#1F2328">JWT</text>
+<rect x="353" y="368" width="86" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="396" y="391" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">OAuth2</text>
+<rect x="448" y="368" width="69" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="483" y="391" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">RBAC</text>
+<rect x="528" y="368" width="143" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="599" y="391" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">Rate limiting</text>
+<rect x="681" y="368" width="168" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="765" y="391" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">VAPT remediation</text>
+<line x1="48" y1="416" x2="1152" y2="416" stroke="#D0D7DE" stroke-opacity="0.6"/>
+<text x="48" y="451" font-size="16" font-weight="700" fill="#1F2328">Testing</text>
+<rect x="280" y="428" width="99" height="36" rx="18.0" fill="#FFFFFF" stroke="#B45309" stroke-width="1.8"/><text x="330" y="451" text-anchor="middle" font-size="15" font-weight="600" fill="#1F2328">JUnit 5</text>
+<rect x="389" y="428" width="94" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="436" y="451" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">Mockito</text>
+<rect x="493" y="428" width="69" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="527" y="451" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">Jest</text>
+<rect x="572" y="428" width="86" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="614" y="451" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">Vitest</text>
+<rect x="667" y="428" width="110" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="722" y="451" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">Supertest</text>
+<rect x="788" y="428" width="94" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="834" y="451" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">Postman</text>
+<line x1="48" y1="476" x2="1152" y2="476" stroke="#D0D7DE" stroke-opacity="0.6"/>
+<text x="48" y="511" font-size="16" font-weight="700" fill="#1F2328">Computer vision</text>
+<rect x="280" y="488" width="168" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="364" y="511" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">YOLOv11 training</text>
+<rect x="458" y="488" width="209" height="36" rx="18.0" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="1.2"/><text x="563" y="511" text-anchor="middle" font-size="15" font-weight="500" fill="#1F2328">Fabric.js zone editor</text>
+<rect x="48" y="544" width="26" height="16" rx="8" fill="#FFFFFF" stroke="#B45309" stroke-width="1.8"/><text x="84" y="557" font-size="13" fill="#57606A">Outlined in amber: what I use every day</text>
+</svg>
