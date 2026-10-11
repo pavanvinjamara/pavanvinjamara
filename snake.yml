@@ -1,11 +1,12 @@
-name: Generate contribution snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # every 12 hours
-  workflow_dispatch:          # run manually from the Actions tab
+    - cron: "0 */12 * * *"   # runs every 12 hours
+  workflow_dispatch:          # lets you run it manually from the Actions tab
   push:
-    branches: [main]
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -13,8 +14,10 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - name: Generate light and dark snake SVGs
+      - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
