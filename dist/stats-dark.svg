@@ -28,18 +28,39 @@
     <rect x="224" y="130" width="184" height="46" rx="11" fill="#21262d" stroke="#30363d" stroke-opacity=".7"/>
     <g transform="translate(237,145)" color="#a855f7" fill="#a855f7"><path d="M3 2.5A1.5 1.5 0 0 1 4.5 1H13v11H4.5A1.5 1.5 0 0 0 3 13.5zM3 13.5A1.5 1.5 0 0 0 4.5 15H13v-3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></g>
     <text x="262" y="149" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Public repos</text>
-    <text x="262" y="166" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">—</text></g>
+    <text x="262" y="166" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">44</text></g>
   <g class="pop" style="animation-delay:0.32s">
     <rect x="28" y="186" width="184" height="46" rx="11" fill="#21262d" stroke="#30363d" stroke-opacity=".7"/>
     <g transform="translate(41,201)" color="#a855f7" fill="#a855f7"><path d="m8 1.5 2 4.2 4.5.6-3.3 3.1.8 4.5L8 11.7 4 13.9l.8-4.5L1.5 6.3 6 5.7z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></g>
     <text x="66" y="205" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Stars earned</text>
-    <text x="66" y="222" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">—</text></g>
+    <text x="66" y="222" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">16</text></g>
   <g class="pop" style="animation-delay:0.40s">
     <rect x="224" y="186" width="184" height="46" rx="11" fill="#21262d" stroke="#30363d" stroke-opacity=".7"/>
     <g transform="translate(237,201)" color="#a855f7" fill="#a855f7"><circle cx="6" cy="5" r="2.5" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="M1.5 14c0-2.5 2-4 4.5-4s4.5 1.5 4.5 4M11 3a2.3 2.3 0 0 1 0 4.5M12.5 10c1.3.5 2 1.8 2 4" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></g>
     <text x="262" y="205" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Followers</text>
-    <text x="262" y="222" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">—</text></g>
+    <text x="262" y="222" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">6</text></g>
   <text x="444" y="86" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1.6" fill="#a855f7">TOP LANGUAGES</text>
-  <text x="444" y="130" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e">Updating on next workflow run…</text>
+  <clipPath id="bar"><rect x="444" y="98" width="368" height="10" rx="5"/></clipPath><g clip-path="url(#bar)">
+  <rect class="grow" x="444.0" y="98" width="180.2" height="10" fill="#f1e05a"/>
+  <rect class="grow" x="623.7" y="98" width="58.9" height="10" fill="#b07219"/>
+  <rect class="grow" x="682.1" y="98" width="50.1" height="10" fill="#e34c26"/>
+  <rect class="grow" x="731.7" y="98" width="48.8" height="10" fill="#663399"/>
+  <rect class="grow" x="780.0" y="98" width="32.5" height="10" fill="#c6538c"/>
+  </g>
+  <g class="pop" style="animation-delay:0.30s"><circle cx="449" cy="130" r="5" fill="#f1e05a"/>
+    <text x="462" y="134" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" fill="#e6edf3">JavaScript</text>
+    <text x="812" y="134" text-anchor="end" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#8b949e">48.8%</text></g>
+  <g class="pop" style="animation-delay:0.37s"><circle cx="449" cy="151" r="5" fill="#b07219"/>
+    <text x="462" y="155" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" fill="#e6edf3">Java</text>
+    <text x="812" y="155" text-anchor="end" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#8b949e">15.9%</text></g>
+  <g class="pop" style="animation-delay:0.44s"><circle cx="449" cy="172" r="5" fill="#e34c26"/>
+    <text x="462" y="176" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" fill="#e6edf3">HTML</text>
+    <text x="812" y="176" text-anchor="end" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#8b949e">13.5%</text></g>
+  <g class="pop" style="animation-delay:0.51s"><circle cx="449" cy="193" r="5" fill="#663399"/>
+    <text x="462" y="197" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" fill="#e6edf3">CSS</text>
+    <text x="812" y="197" text-anchor="end" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#8b949e">13.1%</text></g>
+  <g class="pop" style="animation-delay:0.58s"><circle cx="449" cy="214" r="5" fill="#c6538c"/>
+    <text x="462" y="218" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="13" fill="#e6edf3">SCSS</text>
+    <text x="812" y="218" text-anchor="end" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="12.5" fill="#8b949e">8.7%</text></g>
   <line x1="424" y1="74" x2="424" y2="222" stroke="#30363d"/>
 </svg>
