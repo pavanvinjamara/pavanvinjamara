@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="230" viewBox="0 0 840 230" role="img" aria-label="Pavan Kumar Vinjamara - Full Stack Java Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1e1b4b"><animate attributeName="stop-color" values="#1e1b4b;#312e81;#1e1b4b" dur="10s" repeatCount="indefinite"/></stop>
+      <stop offset=".55" stop-color="#4c1d95"/>
+      <stop offset="1" stop-color="#0e7490"><animate attributeName="stop-color" values="#0e7490;#1d4ed8;#0e7490" dur="10s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <linearGradient id="name" x1="0" x2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#c4b5fd"/></linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="28"/></filter>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#ffffff" stroke-opacity=".05"/></pattern>
+    <clipPath id="frame"><rect width="840" height="230" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .fade { animation: fade 1.1s ease-out both }
+    .d2 { animation-delay: .25s }
+    @keyframes fade { from { opacity:0; transform: translateY(10px) } to { opacity:1; transform:none } }
+    .caret { animation-timing-function: steps(1) }
+    @keyframes blink { 50% { opacity: 0 } }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="840" height="230" fill="url(#bg)"/>
+    <rect width="840" height="230" fill="url(#grid)"/>
+    <circle cx="120" cy="40" r="90" fill="#a855f7" opacity=".45" filter="url(#blur)">
+      <animate attributeName="cx" values="120;200;120" dur="12s" repeatCount="indefinite"/></circle>
+    <circle cx="720" cy="200" r="100" fill="#22d3ee" opacity=".35" filter="url(#blur)">
+      <animate attributeName="cx" values="720;620;720" dur="14s" repeatCount="indefinite"/></circle>
+  </g>
+  <g class="fade">
+    <text x="420.0" y="62" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="15" letter-spacing="4" fill="#a5f3fc" font-weight="600">HELLO, I'M</text>
+    <text x="420.0" y="108" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="44" font-weight="800" fill="url(#name)">Pavan Kumar Vinjamara</text>
+  </g>
+  <g class="fade d2">
+    <text x="420.0" y="134" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="16" fill="#ddd6fe" font-weight="500" letter-spacing="1">Full Stack Java Developer  ·  Hyderabad, India</text>
+  </g>
+  <style>
+    @keyframes r0 { 0%,0.00% {width:0} 8.75% {width:391px} 20.00% {width:391px} 25.00%,100% {width:0} }
+    @keyframes c0 { 0%,0.00% {opacity:0} 0.00% {transform:translateX(0);opacity:1} 8.75% {transform:translateX(391px)} 20.00% {transform:translateX(391px)} 24.99% {transform:translateX(0);opacity:1} 25.00%,100% {opacity:0} }
+    .r0 { animation: r0 14.4s steps(32) infinite }
+    .c0 { animation: c0 14.4s steps(32) infinite }
+  </style>
+  <clipPath id="clip0"><rect class="r0" x="224" y="138" height="34" width="0"/></clipPath>
+  <text x="226" y="161" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="20" fill="#e0f2fe" clip-path="url(#clip0)">Java + Spring Boot Microservices</text>
+  <rect class="c0 caret" x="224" y="143" width="2.5" height="24" fill="#22d3ee" opacity="0"/>
+  <style>
+    @keyframes r1 { 0%,25.00% {width:0} 33.75% {width:331px} 45.00% {width:331px} 50.00%,100% {width:0} }
+    @keyframes c1 { 0%,24.99% {opacity:0} 25.00% {transform:translateX(0);opacity:1} 33.75% {transform:translateX(331px)} 45.00% {transform:translateX(331px)} 49.99% {transform:translateX(0);opacity:1} 50.00%,100% {opacity:0} }
+    .r1 { animation: r1 14.4s steps(27) infinite }
+    .c1 { animation: c1 14.4s steps(27) infinite }
+  </style>
+  <clipPath id="clip1"><rect class="r1" x="255" y="138" height="34" width="0"/></clipPath>
+  <text x="257" y="161" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="20" fill="#e0f2fe" clip-path="url(#clip1)">React.js | Vue.js | Node.js</text>
+  <rect class="c1 caret" x="255" y="143" width="2.5" height="24" fill="#22d3ee" opacity="0"/>
+  <style>
+    @keyframes r2 { 0%,50.00% {width:0} 58.75% {width:391px} 70.00% {width:391px} 75.00%,100% {width:0} }
+    @keyframes c2 { 0%,49.99% {opacity:0} 50.00% {transform:translateX(0);opacity:1} 58.75% {transform:translateX(391px)} 70.00% {transform:translateX(391px)} 74.99% {transform:translateX(0);opacity:1} 75.00%,100% {opacity:0} }
+    .r2 { animation: r2 14.4s steps(32) infinite }
+    .c2 { animation: c2 14.4s steps(32) infinite }
+  </style>
+  <clipPath id="clip2"><rect class="r2" x="224" y="138" height="34" width="0"/></clipPath>
+  <text x="226" y="161" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="20" fill="#e0f2fe" clip-path="url(#clip2)">Kafka | Redis | PostgreSQL | AWS</text>
+  <rect class="c2 caret" x="224" y="143" width="2.5" height="24" fill="#22d3ee" opacity="0"/>
+  <style>
+    @keyframes r3 { 0%,75.00% {width:0} 83.75% {width:440px} 95.00% {width:440px} 100.00%,100% {width:0} }
+    @keyframes c3 { 0%,74.99% {opacity:0} 75.00% {transform:translateX(0);opacity:1} 83.75% {transform:translateX(440px)} 95.00% {transform:translateX(440px)} 99.99% {transform:translateX(0);opacity:1} 100.00%,100% {opacity:0} }
+    .r3 { animation: r3 14.4s steps(36) infinite }
+    .c3 { animation: c3 14.4s steps(36) infinite }
+  </style>
+  <clipPath id="clip3"><rect class="r3" x="200" y="138" height="34" width="0"/></clipPath>
+  <text x="202" y="161" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="20" fill="#e0f2fe" clip-path="url(#clip3)">3+ years shipping production systems</text>
+  <rect class="c3 caret" x="200" y="143" width="2.5" height="24" fill="#22d3ee" opacity="0"/>
+  <g transform="translate(358.0,190)">
+    <rect width="124" height="24" rx="12" fill="#10b981" fill-opacity=".18" stroke="#34d399" stroke-opacity=".6"/>
+    <circle cx="16" cy="12" r="4" fill="#34d399"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="68" y="16.5" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#a7f3d0">Open to work</text>
+  </g>
+</svg>

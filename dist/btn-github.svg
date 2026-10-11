@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="170" height="46" viewBox="0 0 170 46" role="img" aria-label="Follow">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#24292f"/><stop offset="1" stop-color="#57606a"/></linearGradient>
+  <linearGradient id="shine" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".35"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <clipPath id="c"><rect width="170" height="46" rx="23.0"/></clipPath></defs>
+  <g clip-path="url(#c)">
+    <rect width="170" height="46" fill="url(#g)"/>
+    <rect x="-80" width="60" height="46" fill="url(#shine)" transform="skewX(-20)">
+      <animate attributeName="x" values="-80;250;250" keyTimes="0;.35;1" dur="4s" repeatCount="indefinite"/></rect>
+  </g>
+  <g transform="translate(20,11)"><path fill="#fff" d="M12 2.2a9.8 9.8 0 0 0-3.1 19.1c.5.1.7-.2.7-.5v-1.8c-2.7.6-3.3-1.2-3.3-1.2-.4-1.1-1.1-1.4-1.1-1.4-.9-.6.1-.6.1-.6 1 .1 1.5 1 1.5 1 .9 1.5 2.3 1.1 2.9.8.1-.6.3-1.1.6-1.3-2.2-.3-4.5-1.1-4.5-4.9 0-1.1.4-2 1-2.6-.1-.3-.4-1.3.1-2.7 0 0 .8-.3 2.7 1a9.3 9.3 0 0 1 4.9 0c1.9-1.3 2.7-1 2.7-1 .5 1.4.2 2.4.1 2.7.6.7 1 1.6 1 2.6 0 3.8-2.3 4.6-4.5 4.9.4.3.7.9.7 1.8v2.7c0 .3.2.6.7.5A9.8 9.8 0 0 0 12 2.2z"/></g>
+  <text x="100" y="28.5" text-anchor="middle" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#fff" letter-spacing=".3">Follow</text>
+</svg>
