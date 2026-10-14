@@ -8,12 +8,12 @@
   </style>
   <rect x=".5" y=".5" width="839" height="249" rx="16" fill="#161b22" stroke="#30363d"/>
   <text x="28" y="40" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e6edf3">GitHub Activity</text>
-  <rect x="28" y="50" width="44" height="3" rx="1.5" fill="url(#acc)"/><text x="812" y="40" text-anchor="end" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b949e">updated 13 Oct 2026</text>
+  <rect x="28" y="50" width="44" height="3" rx="1.5" fill="url(#acc)"/><text x="812" y="40" text-anchor="end" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="12.5" fill="#8b949e">updated 14 Oct 2026</text>
   <g class="pop" style="animation-delay:0.00s">
     <rect x="28" y="74" width="184" height="46" rx="11" fill="#21262d" stroke="#30363d" stroke-opacity=".7"/>
     <g transform="translate(41,89)" color="#a855f7" fill="#a855f7"><path d="M8 1.5c.5 2.5 3.5 4 3.5 7.5a3.5 3.5 0 0 1-7 0c0-1.6.8-2.6 1.6-3.4C6.4 7.2 7 8 7 8s1.6-2.2 1-6.5z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></g>
     <text x="66" y="93" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e">Current streak</text>
-    <text x="66" y="110" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">2 days</text></g>
+    <text x="66" y="110" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="15" font-weight="700" fill="#e6edf3">0 days</text></g>
   <g class="pop" style="animation-delay:0.08s">
     <rect x="224" y="74" width="184" height="46" rx="11" fill="#21262d" stroke="#30363d" stroke-opacity=".7"/>
     <g transform="translate(237,89)" color="#a855f7" fill="#a855f7"><path d="M5 2h6v4a3 3 0 0 1-6 0zM5 3.5H2.5A2.5 2.5 0 0 0 5 7M11 3.5h2.5A2.5 2.5 0 0 1 11 7M8 9v3M5.5 14h5" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></g>
