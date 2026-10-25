@@ -8,7 +8,7 @@
   </style>
   <rect x=".5" y=".5" width="839" height="249" rx="16" fill="#ffffff" stroke="#d0d7de"/>
   <text x="28" y="40" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#1f2328">GitHub Activity</text>
-  <rect x="28" y="50" width="44" height="3" rx="1.5" fill="url(#acc)"/><text x="812" y="40" text-anchor="end" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="12.5" fill="#656d76">updated 24 Oct 2026</text>
+  <rect x="28" y="50" width="44" height="3" rx="1.5" fill="url(#acc)"/><text x="812" y="40" text-anchor="end" font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif" font-size="12.5" fill="#656d76">updated 25 Oct 2026</text>
   <g class="pop" style="animation-delay:0.00s">
     <rect x="28" y="74" width="184" height="46" rx="11" fill="#f6f8fa" stroke="#d0d7de" stroke-opacity=".7"/>
     <g transform="translate(41,89)" color="#7c3aed" fill="#7c3aed"><path d="M8 1.5c.5 2.5 3.5 4 3.5 7.5a3.5 3.5 0 0 1-7 0c0-1.6.8-2.6 1.6-3.4C6.4 7.2 7 8 7 8s1.6-2.2 1-6.5z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></g>
